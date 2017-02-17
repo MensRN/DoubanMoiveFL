@@ -1,2 +1,2 @@
-# douban-moive-rn-fl
+# DoubanMoiveFL
 douban moive app baseed on react native
